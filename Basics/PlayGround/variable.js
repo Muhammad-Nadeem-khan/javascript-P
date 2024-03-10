@@ -355,4 +355,7 @@ const data = {
    return previousValue + nextValue.price
  }, 0)
  console.log(result)
+
+ const list = [12,34,55,2,7,99,100]
+ console.log(list.sort)
    
