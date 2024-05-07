@@ -100,15 +100,133 @@
 // and this called channing//
 
 
-const students = ['ali' , 'aslam' , 'tariq' , 'Naveed']
+// const students = ['ali','aslam','tariq','Naveed']
 
-for(let i=0; i<students.length; i++){
-    function printarray(students){
-        console.log(students[i])
-    }
-}
-students.push('farooq')
-printarray(students)
+// for(let i=0; i<students.length; i++){
+//     function printarray(students){
+//         console.log(students[i])
+//     }
+// }
+// // students.push('farooq')
+// printarray(students)
+
+//*******************************************Topics*******************************************//
+// sort , reverse , pop , push , shift, unshift , concat , join , 
+// slice , splice , isArray , indexof , lastindexof , entries
+// every , filter , find , findex , includes , some , foreach,
+// tostring ,valueof , fill.
+
+//*******************************sort********************************************************//
+
+// const students = ['ali','aslam','taimor','kalim']
+// students.sort()
+
+// console.log(students)
+
+//********************************Reverse***************************************************//
+
+// const number = [1,2,3,4,5,6]
+// number.reverse();
+// console.log(number)
+
+//***********************************POP***************************************************//
+
+// const names1 = ['ali','aslam','khan','akram']
+
+// names1.pop();
+// console.log(names1)
+
+//**********************************Push**************************************************//
+// const names = ['ali','aslam','khan','akram']
+
+// names.push('sajad');
+// console.log(names)
+
+//  var names = ['ali','aslam','akram','sanan']
+
+//   function printarray(names){
+//     for(let i=0; i<names.length; i++){
+//         console.log(names[i])
+//     }
+//  }
+
+//  names.push('sabir');
+//  printarray(names);
+
+//************************************shift**************************************//
+
+// const names = ['ali','aslam','khan','akram']
+// names.shift()
+// console.log(names)
+
+//***************************************unshift*********************************/
+// const names = ['ali','aslam','khan','akram']
+// names.unshift('farooq')
+// console.log(names)
+
+//**************************************concat**************************************/
+
+// const names = ['ali','aslam','akram','sanan']
+
+// const names2 = names.concat('faisal','baded')
+// console.log(names2)
+
+//****************************************Join***************************************/
+
+// const names = ['ali','aslam','akram','sanan']
+
+// const names2 = names.join ('faisal','baded')
+// console.log(names2)
+
+//  var names = ['ali','aslam','akram','sanan']
+
+//   function printarray(names){
+//     for(let i=0; i<names.length; i++){
+//         console.log(names[i])
+//     }
+//  }
+
+//  names.pop();
+//  printarray(names);
+
+
+//*******************************************Delete****************************/
+
+// var names = ['ali','aslam','akram','sanan']
+// function printarray(){
+
+// for(let i=0; i<names.length; i++){
+//     console.log(names[i])
+//     delete names[0]
+// }
+
+
+
+// printarray(names)
+// }
+
+
+//********************************************Slice**********************************/
+
+// const names = ['akram','aslam','salman','sabir','farooq']
+
+// const names2 = names.slice(0,1)
+// console.log(names2)
+//********************************************Splice**********************************//
+
+// const names = ['akram','aslam','salman','sabir','farooq']
+
+// names.splice(2,2)
+
+// console.log(names)
+
+// const names = ['akram','aslam','salman','sabir','farooq']
+ 
+// const b = names.indexOf('farooq')
+// console.log(b)
+
+//************************************************* */
+
 
 
 

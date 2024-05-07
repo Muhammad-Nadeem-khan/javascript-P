@@ -1,7 +1,4 @@
 const data = [{
-    
-
-    
         "Serial Number":8,
         "GPa":3.43,
         "name":"nadeem",
@@ -13,12 +10,8 @@ const data = [{
            "address":"Street No 1",
            "Countrey":"Pakistan"
         }
-
-    
-
-
-
 }]
 
 const str = JSON.stringify(data);
 console.log(str)
+ 

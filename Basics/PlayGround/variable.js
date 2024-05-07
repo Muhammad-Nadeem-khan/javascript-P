@@ -56,6 +56,7 @@
 
 
 
+
 //****************************************** Switch *****************************************************************/
 
 
@@ -236,7 +237,7 @@
 
 // for(let i=0; i<data.length; i++){
 //   if(data[i].name == 'Ali' && data[i].Gpa == 3.7){
-//     console.log('you have A Grade')
+//     console.log('you have A1 Grade')
 //   }
 // }
 
