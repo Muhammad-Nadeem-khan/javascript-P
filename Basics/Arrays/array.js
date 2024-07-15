@@ -31,8 +31,6 @@
 // console.log(newmarks)
 
 
-
-
 //*****************************************Reduce****************************************//
 
 // const marks = [33,44,55,66,88,22,55,99]
@@ -97,7 +95,7 @@
 // .reduce((a,b)=> a+b)
 // console.log(newmarks)
 
-// and this called channing//
+// and this is called channing//
 
 
 // const students = ['ali','aslam','tariq','Naveed']
@@ -168,7 +166,7 @@
 
 // const names = ['ali','aslam','akram','sanan']
 
-// const names2 = names.concat('faisal','baded')
+// const names2 = names.concat('faisal','adil')
 // console.log(names2)
 
 //****************************************Join***************************************/

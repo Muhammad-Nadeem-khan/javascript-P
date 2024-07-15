@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+<body>
+   <button onclick="changeDom()">Click</button>
+   <h1 id="head1">This is Heading1</h1>
+    <script>
+      const changeDom = ()=>{
+       const t = document.getElementById("head1").innerHTML="Pakistan";
+       const cap = t.toUpperCase();
+       document.getElementById("head1").innerHTML = cap;
+      }
+    </script>
+</body>
+</html>

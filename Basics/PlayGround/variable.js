@@ -53,6 +53,9 @@
 
 // const marks = 33;
 // (marks > 40 ? console.log("you are fail"): console.log("you are pass"))
+ 
+
+
 
 
 
@@ -149,6 +152,8 @@
 //  console.log("Hello" + FirstName + "" + LastName)
 
 // console.log(`Hello ${FirstName} ${LastName}`)
+
+
 
 
 //**************************************************Loops*********************************************/
