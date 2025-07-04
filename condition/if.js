@@ -9,9 +9,9 @@
 //     console.log('you can not drive');
 // }
 
-// let temp = 45;
+// let temp = 46;
 
-// if(temp > 40){
+// if(temp > 45){
 //     console.log('ohh its too hot outside');
 // }
 // else{
@@ -223,22 +223,97 @@
 // }
 
 
-let percentage = 30;
+// let percentage = 30;
 
-if(percentage >= 90 && percentage < 100){
-    console.log('You Got A1 Grade');
-}
-else if(percentage >= 80 && percentage < 90){
-    console.log('You Got B Grade');
-}
-else if(percentage >= 70 && percentage < 80){
-    console.log('You Got C Grade');
-}
-else if(percentage >= 60 && percentage < 70){
-    console.log('you Got D Grade ');
-}
-else if(percentage >= 50 && percentage < 60){
-    console.log('You are Fail');
-}else{
-    console.log('sorr you are fail');
-}
+// if(percentage >= 90 && percentage < 100){
+//     console.log('You Got A1 Grade');
+// }
+// else if(percentage >= 80 && percentage < 90){
+//     console.log('You Got B Grade');
+// }
+// else if(percentage >= 70 && percentage < 80){
+//     console.log('You Got C Grade');
+// }
+// else if(percentage >= 60 && percentage < 70){
+//     console.log('you Got D Grade ');
+// }
+// else if(percentage >= 50 && percentage < 60){
+//     console.log('You are Fail');
+// }else{
+//     console.log('sorr you are fail');
+// }
+
+// // Given a number 1–7, print the day (1 = Monday, 2 = Tuesday, ..., 7 = Sunday). Use if-else if.
+
+
+// let week = 9;
+
+// if(week == 1){
+//     console.log('Monday');
+// }
+// else if(week == 2){
+//     console.log('Tuesday');
+// }
+// else if(week == 3){
+//     console.log('Wednesday');
+// }
+// else if(week == 4){
+//     console.log('Thrusday');
+// }
+// else if(week == 5){
+//     console.log('Friday');
+// }
+// else if(week == 6){
+//     console.log('Saturday');
+// }
+// else if(week == 7){
+//     console.log('today is sunday');
+// }else{
+//     console.log('you enter wrong number');
+// }
+
+
+
+// 
+
+
+// let userName = 'khan';
+
+// let password = 12234;
+
+// if(userName == 'khan' && password == 12345){
+//     console.log('Successfully Login');
+// }else{
+//     console.log('you Enter an invaild userName or password');
+// 
+
+// let userName = 'khan';
+
+// let password = 12345 ;
+
+// if (userName !== 'khan') {
+//     console.log('User not found');
+// } else if (password !== 12345) {
+//     console.log('Incorrect password');
+// } else {
+//     console.log('Successfully Logged In');
+// }
+
+// Conditional and Ternary Operator
+
+// let marks = 40;
+
+// (marks > 60 ? console.log('pass') :console.log('fail'))
+
+// const number = 10;
+
+// switch(number){
+//     case true : {
+//         console.log('Negative');
+//         break;
+//     }
+//     default : {
+//         console.log('Positive');
+//     }
+// }
+
