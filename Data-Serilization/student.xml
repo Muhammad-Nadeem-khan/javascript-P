@@ -1,0 +1,12 @@
+<xml>
+ <student1>
+      <name>ali</name>
+      <F-Name>ali khan</F-Name>
+
+      <address>
+          <city>Peshawar</city>
+          <state>Gulbahar</state>
+          <Village>Shaheen town</Village>
+      </address>
+ </student1>
+</xml>

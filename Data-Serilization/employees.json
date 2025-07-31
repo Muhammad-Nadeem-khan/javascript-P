@@ -1,0 +1,12 @@
+const data = [
+    {
+        "serial No" : 2345,
+        "name" : "Nadeem",
+        "College" : "icp",
+        "address" : {
+            "city" : "Peshawar",
+            "state" : "Peshawar",
+            "Village" : "Shaheen Town"
+        }
+    }
+]
