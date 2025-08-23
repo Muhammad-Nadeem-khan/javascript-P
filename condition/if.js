@@ -317,3 +317,25 @@
 //     }
 // }
 
+
+// let Month = 7;
+
+// if (week === 1) {
+//     console.log('Monday');
+// } else if (week === 2) {
+//     console.log('Today is Tuesday');
+// } else if (week === 3) {
+//     console.log('Today is Wednesday');
+// } else if (week === 4) {
+//     console.log('Today is Thursday');
+// } else if (week === 5) {
+//     console.log('Today is Friday');
+// } else if (week === 6) {
+//     console.log('Today is Saturday');
+// } else if (week === 7) {
+//     console.log('Today is Sunday');
+// } else {
+//     console.log('You entered an invalid week number');
+// }
+
+

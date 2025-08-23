@@ -7,11 +7,16 @@
 // console.log(newnumber);
 
 
-let students = ['Tariq','Naveed','Nadeem','Farooq']
+// let students = ['Tariq','Naveed','Nadeem','Farooq']
 
-let newStudents = students.map((students)=>{
-   if(students[0] === 'Tariq'){
-    console.log('Yes this is Tariq');
-   }
-   return students
-})
+// let newStudents = students.map((students)=>{
+//    if(students[0] === 'Tariq'){
+//     console.log('Yes this is Tariq');
+//    }
+//    return students
+// })
+
+
+
+
+
